@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Macfee
+/src/backend/database.py      @Macfee
+/src/backend/routers/auth.py  @Macfee
+
+# The frontend will need refactoring soon to be more object oriented.
+/src/static/                  @Macfee
